@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "wz.oregen.mixin",
+	"refmap": "mixins.wzoregen.refmap.json",
+    "compatibilityLevel": "JAVA_8",
+    "target": "@env(DEFAULT)",
+    "mixins": [
+    ],
+    "client": [
+    
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

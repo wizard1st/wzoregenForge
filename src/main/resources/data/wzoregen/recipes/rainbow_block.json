@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "wzoregen:rainbow_stone"
+    }
+  },
+  "result": {
+    "item": "wzoregen:rainbow_block"
+  }
+}

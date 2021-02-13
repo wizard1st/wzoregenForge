@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "wzoregen:aluminium_ore"
+  },
+  "result": "wzoregen:aluminium_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

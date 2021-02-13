@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "wzoregen:block/lava_block"}
+  }
+}

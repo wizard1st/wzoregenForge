@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "wzoregen:block/ruby_ore"}
+  }
+}

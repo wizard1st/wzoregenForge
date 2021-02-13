@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wzoregen:block/dirt_diamond_ore"
+  }
+}

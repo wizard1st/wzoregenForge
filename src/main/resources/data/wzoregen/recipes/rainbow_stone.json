@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wzoregen:rainbow_block"
+    }
+  ],
+  "result": {
+    "item": "wzoregen:rainbow_stone",
+    "count": 9
+  }
+}
